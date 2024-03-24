@@ -4,8 +4,8 @@ services:
     image: ghcr.io/timmy-web/poe-bot:latest
     container_name: poebot
     environment:
-      TELEGRAM_BOT_TOKEN: "<Your Telegram Bot Token From Bot Father>"
-      POE_API_KEY: "<Your Poe Api Key>"
+      TELEGRAM_BOT_TOKEN: "<7134484960:AAFe5BACOeKT-yt9zi-xTfSrgsD8dEGqdyw>"
+      POE_API_KEY: "<EMA6k2Uph_iWplmCyR30GAgtdb79b8vjWG25jOhMKJ8>"
     volumes:
       - /etc/localtime:/etc/localtime:ro
     stdin_open: true
