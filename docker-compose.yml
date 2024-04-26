@@ -6,6 +6,8 @@ services:
     environment:
       TELEGRAM_BOT_TOKEN: "<7134484960:AAFe5BACOeKT-yt9zi-xTfSrgsD8dEGqdyw>"
       POE_API_KEY: "<EMA6k2Uph_iWplmCyR30GAgtdb79b8vjWG25jOhMKJ8>"
+      TELEGRAM_BOT_TOKEN: "<6401773344:AAE4_tSUtN8HoakUDN-zQsQmIXUXr60LDIU>"
+      POE_API_KEY: "<7wMIEPLwPQIU3esfl-82NWfSg2g4RxesHTEoiRkjVak>"
     volumes:
       - /etc/localtime:/etc/localtime:ro
     stdin_open: true
